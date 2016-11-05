@@ -1,0 +1,25 @@
+{
+  "name": "geeksboost",
+  "description": "Destination for placement preparation",
+  "main": "server/server.js",
+  "authors": [
+    "birendra-ideas2it <birendra@ideas2it.com>"
+  ],
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.html",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/birendra-getmyplace/geeksboost",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
